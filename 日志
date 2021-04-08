@@ -1,0 +1,6 @@
+功能所需安装的库
+pip install MetaTrader5
+pip install numpy
+pip install pandas
+pip install yagmail[all]
+pip install apscheduler
